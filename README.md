@@ -2,7 +2,7 @@
 
 A programmer mainly interested in NLP and A.I. system.
 
-The Author of N3LDG++
+The Author of N3LDG++.
 
 <!--
 **chncwang/chncwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
