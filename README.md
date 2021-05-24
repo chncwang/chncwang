@@ -4,6 +4,8 @@ A programmer mainly interested in NLP and A.I. system.
 
 The follower of *Google C++ Coding Style Guideline* and *Effective Java*.
 
+An enthusiast of the game of go.
+
 The Author of N3LDG++.
 
 <!--
