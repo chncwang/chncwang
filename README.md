@@ -2,6 +2,8 @@
 
 A programmer mainly interested in NLP and A.I. system.
 
+The follower of *C++ Coding Style Guideline* and *Effective Java*.
+
 The Author of N3LDG++.
 
 <!--
