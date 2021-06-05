@@ -4,7 +4,7 @@ A programmer mainly interested in NLP and A.I. system.
 
 The follower of *Google C++ Coding Style Guideline* and *Effective Java*.
 
-The Author of N3LDG++.
+The Author of InsNet.
 
 <!--
 **chncwang/chncwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
