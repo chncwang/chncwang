@@ -1,8 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chncwang&count_private=true&include_all_commits=true"/>
 
-A programmer mainly interested in NLP and A.I. system.
-
-The follower of *Google C++ Coding Style Guideline* and *Effective Java*.
+A programmer mainly interested in NLP.
 
 The Author of InsNet.
 
