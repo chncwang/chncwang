@@ -2,6 +2,9 @@
 
 A Resilient A.I. Enthusiast
 
+- 🌱 I’m currently learning Video Making
+- 👯 I’m open to collaboration on Oncology, e.g., for Nasopharyngeal Carcinoma Treatment
+
 <!--
 **chncwang/chncwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
